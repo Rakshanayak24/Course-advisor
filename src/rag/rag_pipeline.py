@@ -17,14 +17,14 @@ from pathlib import Path
 from typing import List, Optional
 
 # ── LangChain imports ────────────────────────────────────────────────────────
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter   # ✅ FIXED
 try:
     # prefer the newer dedicated package (no deprecation warning)
     from langchain_huggingface import HuggingFaceEmbeddings
 except ImportError:
     from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
-from langchain.schema import Document
+from langchain_core.documents import Document                          # ✅ FIXED
 
 
 # ── Path constants ────────────────────────────────────────────────────────────
@@ -37,9 +37,9 @@ PROJECT_ROOT = _SRC.parent                       # <project_root>
 DATA_DIR  = PROJECT_ROOT / "data" / "catalog"
 INDEX_DIR = PROJECT_ROOT / "outputs" / "faiss_index"
 
-CHUNK_SIZE    = 600   # tokens (approx, 1 token ≈ 4 chars)
-CHUNK_OVERLAP = 100   # token overlap between adjacent chunks
-RETRIEVER_K   = 6
+CHUNK_SIZE      = 600   # tokens (approx, 1 token ≈ 4 chars)
+CHUNK_OVERLAP   = 100   # token overlap between adjacent chunks
+RETRIEVER_K     = 6
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 
 
