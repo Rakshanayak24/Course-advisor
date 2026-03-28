@@ -15,7 +15,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from rag.prompts import SYSTEM_PROMPT, FORMAT_INSTRUCTIONS, build_student_profile_string
 from rag.rag_pipeline import build_index, retrieve_context, format_retrieved_chunks_for_prompt
-from langchain.schema import Document
+from langchain_core.documents import Document                          # ✅ FIXED
 
 
 # ─────────────────────────────────────────────────────────────────────────────
