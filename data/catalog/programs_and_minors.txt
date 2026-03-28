@@ -1,0 +1,110 @@
+SOURCE: https://catalog.university.edu/programs/minor-ai-ml
+INSTITUTION: State University - Department of Computer Science
+CATALOG YEAR: 2024-2025
+ACCESSED: 2025-01-15
+
+=============================================================
+MINOR IN ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+Department of Computer Science
+=============================================================
+
+PROGRAM OVERVIEW
+The Minor in Artificial Intelligence & Machine Learning provides students from any major with foundational skills in AI and ML. The minor requires 18 credit hours of coursework. Students must earn a grade of C or better in all required minor courses.
+
+ELIGIBILITY
+Open to all students in good academic standing who have completed CS 101 or equivalent programming experience. Non-CS students should contact the CS Department for prerequisite waivers.
+
+REQUIRED COURSES (12 credits)
+- CS 201 - Data Structures and Algorithms II (3 credits)
+  [Prerequisite: CS 102]
+- CS 340 - Artificial Intelligence (3 credits)
+  [Prerequisite: CS 201 AND MATH 210]
+- CS 401 - Machine Learning (3 credits)
+  [Prerequisite: CS 340 AND MATH 301 AND STAT 201]
+- STAT 201 - Probability and Statistics (3 credits)
+  [Prerequisite: MATH 115]
+
+ELECTIVE COURSES (Choose 2, 6 credits)
+- CS 461 - Natural Language Processing (3 credits)
+- CS 470 - Computer Graphics (3 credits)
+- CS 480 - Special Topics (3 credits, topic must be AI/ML-related; requires advisor approval)
+- MATH 301 - Linear Algebra Advanced (3 credits) [if not already counted in required courses]
+- CS 490 - Independent Study (3 credits, must be AI/ML topic; requires CS faculty supervisor approval)
+
+NOTES
+- A maximum of 9 credits in the minor may overlap with courses counting toward the student's major.
+- Students completing the full BSCS with the AI/ML track automatically satisfy all requirements for the AI/ML minor.
+- The minor is noted on the official transcript upon graduation.
+
+=============================================================
+END OF AI/ML MINOR REQUIREMENTS
+=============================================================
+
+---
+
+SOURCE: https://catalog.university.edu/programs/certificate-data-science
+INSTITUTION: State University - Interdisciplinary Programs Office
+CATALOG YEAR: 2024-2025
+ACCESSED: 2025-01-15
+
+=============================================================
+GRADUATE CERTIFICATE IN DATA SCIENCE (Undergraduate pathway)
+=============================================================
+
+Note: The undergraduate Data Science Certificate is a 15-credit credential available to students who have completed their BSCS or are in their final year. It is separate from the Minor in AI/ML.
+
+REQUIRED COURSES (15 credits)
+- CS 401 - Machine Learning (3 credits) [if not completed in major]
+- CS 461 - Natural Language Processing (3 credits)
+- STAT 201 - Probability and Statistics (3 credits) [if not completed in major]
+- MATH 301 - Linear Algebra Advanced (3 credits)
+- CS 480 - Special Topics: Data Engineering (3 credits) [when offered; instructor consent required]
+
+=============================================================
+END OF DATA SCIENCE CERTIFICATE
+=============================================================
+
+---
+
+SOURCE: https://catalog.university.edu/advising/faqs
+INSTITUTION: State University - Academic Advising Center
+CATALOG YEAR: 2024-2025
+ACCESSED: 2025-01-15
+
+=============================================================
+FREQUENTLY ASKED QUESTIONS - ACADEMIC ADVISING
+=============================================================
+
+Q: Can I take two courses simultaneously where one is a prerequisite for the other?
+A: Generally no. Prerequisites must be completed before enrolling in the dependent course. The only exception is if both courses are offered in the same semester AND you obtain written approval from the instructor of the dependent course (see Section 3.1 of Academic Policies). This is rare and not guaranteed.
+
+Q: What happens if I earned a D in a prerequisite course?
+A: If the prerequisite specifies "grade of C or better," a D does not satisfy the prerequisite. You must retake the prerequisite and earn a C or better before enrolling in the dependent course.
+
+Q: Can transfer credits satisfy prerequisites?
+A: Yes, if the Registrar and the relevant department have approved the transfer course as equivalent. You must submit a Transfer Credit Equivalency form. Do not assume equivalency; get written confirmation.
+
+Q: What is the difference between a co-requisite and a prerequisite?
+A: A prerequisite must be completed before (in a prior term) you take the dependent course. A co-requisite must be taken in the same term as the dependent course, or must have already been completed. If you completed a co-requisite in a previous term, you do not need to retake it.
+
+Q: Can I take more than 18 credits in a semester?
+A: Only with an overload approval. You need a cumulative GPA of 3.5 or higher and written approval from the Dean of your college. Do not register for more than 18 credits without this approval.
+
+Q: When should I apply for graduation?
+A: You should apply for graduation at least one semester before your expected completion. For Spring graduation, apply by November 1. For Fall graduation, apply by June 1. For Summer graduation, apply by March 1.
+
+Q: Which courses satisfy the Quantitative Reasoning general education requirement?
+A: Any course with a MATH prefix numbered 115 or higher, or STAT 201, satisfies the Quantitative Reasoning requirement. CS 220 does not satisfy this requirement.
+
+Q: What is "instructor consent" and how do I get it?
+A: For courses requiring instructor consent, you must contact the instructor directly (usually by email or office hours) to discuss your background and get approval. If approved, the instructor provides a signed Permission-to-Enroll form which you submit to the Registrar. Do not assume consent will be granted; instructors may deny requests based on course capacity or prerequisite concerns.
+
+Q: How is my CS major GPA calculated?
+A: Your CS major GPA includes only courses with a CS prefix (or CS equivalents like CS 220/MATH 210). It is calculated the same way as your cumulative GPA but limited to CS-prefix courses.
+
+Q: Can I use Pass/Fail for CS core courses?
+A: No. CS core courses and required major courses cannot be taken Pass/Fail. Pass/Fail is only available for non-required electives.
+
+=============================================================
+END OF ADVISING FAQS
+=============================================================

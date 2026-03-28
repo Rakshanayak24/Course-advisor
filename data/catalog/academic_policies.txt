@@ -1,0 +1,148 @@
+SOURCE: https://catalog.university.edu/policies/academic
+INSTITUTION: State University - Office of the Registrar
+CATALOG YEAR: 2024-2025
+ACCESSED: 2025-01-15
+
+=============================================================
+ACADEMIC POLICIES & REGULATIONS
+State University Office of the Registrar
+=============================================================
+
+SECTION 1: GRADING POLICIES
+
+1.1 Grade Scale
+A  = 4.0 (90-100%)
+A- = 3.7 (87-89%)
+B+ = 3.3 (84-86%)
+B  = 3.0 (80-83%)
+B- = 2.7 (77-79%)
+C+ = 2.3 (74-76%)
+C  = 2.0 (70-73%)
+C- = 1.7 (67-69%)
+D+ = 1.3 (64-66%)
+D  = 1.0 (60-63%)
+F  = 0.0 (below 60%)
+P  = Pass (not included in GPA calculation)
+W  = Withdrawal (not included in GPA calculation)
+I  = Incomplete (treated as F if not resolved within one semester)
+
+1.2 Grade Replacement Policy
+When a student repeats a course at State University, the most recent grade replaces the previous grade in GPA calculation. However, both attempts remain on the official transcript. The previous grade is annotated with "Repeated – Excluded from GPA."
+Note: Grade replacement applies only to courses taken at State University. Transfer course repeats do not affect the State University GPA.
+
+1.3 Incomplete Grade Policy
+A grade of I (Incomplete) may be assigned when a student has completed at least 75% of required coursework but is unable to complete the remaining work due to documented extenuating circumstances (medical emergency, family crisis, etc.). The student must:
+a) Contact the instructor before the final exam period
+b) Submit an Incomplete Grade Contract signed by both student and instructor
+c) Complete remaining work within one full semester following the semester in which the I was assigned
+If the work is not completed by the deadline, the I automatically converts to the grade specified in the Incomplete Grade Contract (typically F).
+
+1.4 Pass/Fail Option
+Students may elect to take up to 6 credit hours total (across all semesters) on a Pass/Fail basis. Restrictions:
+- Only applicable to non-required elective courses
+- CS core courses and required major courses CANNOT be taken Pass/Fail
+- The election must be declared before the end of Week 2 of the semester
+- Once declared, the Pass/Fail election cannot be reversed
+
+---
+
+SECTION 2: ENROLLMENT AND CREDIT LIMITS
+
+2.1 Standard Credit Load
+- Full-time students: 12-18 credit hours per semester
+- Maximum without overload approval: 18 credit hours
+- Overload permission (19+ credits): Requires cumulative GPA of 3.5 or higher and written approval from the Dean of the student's college
+- Minimum for full-time status (financial aid): 12 credit hours
+
+2.2 Summer Session Credit Limits
+- 6-week session: Maximum 6 credits
+- 8-week session: Maximum 8 credits
+- Full summer (both sessions combined): Maximum 12 credits
+
+2.3 Course Repeat Policy
+- Students may repeat any course up to 2 additional times (3 total attempts)
+- A third repeat requires approval from the Academic Appeals Committee
+- Tuition is charged at full rate for all repeated courses
+- Financial aid may not cover repeated courses (consult Financial Aid Office)
+
+---
+
+SECTION 3: PREREQUISITES AND CO-REQUISITES
+
+3.1 Prerequisite Policy
+Prerequisites are enforced at registration. Students who have not completed listed prerequisites will be blocked from registering for the course. Exceptions:
+a) Transfer credit equivalency: Students with transfer credits deemed equivalent to a prerequisite by the department may enroll. Documentation must be submitted to the Registrar.
+b) Concurrent enrollment exception: If a prerequisite course and the dependent course are offered in the same semester, a student may request concurrent enrollment. This requires written approval from the instructor of the dependent course. Note: This is rare and not guaranteed.
+c) Instructor consent override: For courses that list "Instructor consent required," the student must obtain a signed Permission-to-Enroll form from the instructor. This form is submitted to the Registrar no later than the end of the first week of classes.
+
+3.2 Co-Requisite Policy
+Co-requisites are courses that must be taken in the same semester as the course in question, OR must have been completed in a previous semester. Students who have already completed a co-requisite are not required to re-take it. Co-requisites are not enforced automatically by the registration system; it is the student's responsibility to ensure compliance.
+
+3.3 Minimum Grade Requirements
+When a prerequisite specifies a minimum grade (e.g., "CS 101 with a grade of C or better"), a grade below that threshold does not satisfy the prerequisite, even if the student passed the course. Students who earned a grade below the minimum in a prerequisite course must retake and achieve the required grade before enrolling in the dependent course.
+
+---
+
+SECTION 4: ACADEMIC STANDING
+
+4.1 Good Standing
+Students are in Academic Good Standing when their cumulative GPA is 2.0 or above.
+
+4.2 Academic Warning
+Students whose semester GPA falls below 2.0 but whose cumulative GPA remains at 2.0 or above will receive an Academic Warning. An Academic Warning is a notification only and does not restrict enrollment.
+
+4.3 Academic Probation
+Students whose cumulative GPA falls below 2.0 will be placed on Academic Probation. While on probation:
+- Students may not enroll in more than 14 credit hours per semester
+- Students may not enroll in upper-division courses (300-level and above) without written advisor approval
+- Students must meet with their academic advisor before each registration period
+
+4.4 Academic Dismissal
+Students on Academic Probation who fail to raise their cumulative GPA to 2.0 or above after two consecutive semesters of probation will be academically dismissed from the university. Dismissed students may appeal to the Academic Appeals Committee.
+
+---
+
+SECTION 5: WITHDRAWAL AND REFUND POLICIES
+
+5.1 Course Withdrawal
+Students may withdraw from individual courses through the end of Week 10 of a 15-week semester. A grade of W is recorded and does not affect GPA. After Week 10, withdrawal requires Dean's approval and is limited to extraordinary circumstances.
+
+5.2 Medical Withdrawal
+Full medical withdrawal from all courses may be requested at any point in the semester with documentation from a licensed medical provider. Medical withdrawals result in W grades for all enrolled courses.
+
+5.3 Tuition Refund Schedule
+- Withdrawal before Week 1 ends: 100% refund
+- Week 2: 80% refund
+- Week 3: 60% refund
+- Week 4: 40% refund
+- After Week 4: No refund
+
+---
+
+SECTION 6: TRANSFER CREDIT POLICIES
+
+6.1 Maximum Transfer Credits
+A maximum of 60 credit hours of transfer credit may be applied toward the 120-credit graduation requirement.
+
+6.2 Transfer Credit Evaluation
+All transfer credits are evaluated by the Registrar's Office and the relevant academic department. Courses taken at accredited institutions are evaluated for equivalency on a course-by-course basis. Students may be required to provide syllabi for evaluation.
+
+6.3 Transfer Credit and Prerequisites
+Transfer courses deemed equivalent to State University prerequisite courses satisfy prerequisite requirements. Students must submit the Transfer Credit Equivalency form to the department offering the dependent course.
+
+6.4 Residency Requirement
+At least 30 of the final 45 credit hours must be earned at State University. Transfer credits do not count toward this residency requirement.
+
+---
+
+SECTION 7: ACADEMIC INTEGRITY
+
+7.1 Honor Code
+All students are bound by the State University Academic Honor Code. Violations include plagiarism, cheating, fabrication, unauthorized collaboration, and misrepresentation. Penalties range from course failure to expulsion.
+
+7.2 Artificial Intelligence Policy
+Use of generative AI tools (e.g., ChatGPT, GitHub Copilot) is governed by individual course policies. Some courses explicitly permit AI assistance; others prohibit it. Students must consult the course syllabus and, when in doubt, ask the instructor. Submitting AI-generated work as one's own without disclosure when prohibited is an Honor Code violation.
+
+=============================================================
+END OF ACADEMIC POLICIES
+=============================================================

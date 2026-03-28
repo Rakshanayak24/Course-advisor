@@ -1,0 +1,189 @@
+SOURCE: https://catalog.university.edu/courses/computer-science
+INSTITUTION: State University - Department of Computer Science
+CATALOG YEAR: 2024-2025
+ACCESSED: 2025-01-15
+
+=============================================================
+COMPUTER SCIENCE COURSE CATALOG
+Department of Computer Science, College of Engineering
+=============================================================
+
+CS 101 - Introduction to Programming
+Credits: 3
+Prerequisites: None
+Co-requisites: None
+Description: Introduction to problem solving and programming using Python. Topics include variables, data types, control flow, functions, basic data structures (lists, dictionaries), and file I/O. Students will complete weekly programming assignments and a final project.
+Offered: Fall, Spring, Summer
+Notes: This course satisfies the Computing Literacy requirement.
+
+CS 102 - Data Structures and Algorithms I
+Credits: 3
+Prerequisites: CS 101 with a grade of C or better
+Co-requisites: MATH 115 (may be taken concurrently)
+Description: Introduction to fundamental data structures including arrays, linked lists, stacks, queues, and binary trees. Algorithm analysis using Big-O notation. Sorting algorithms (bubble, merge, quick). Recursion and dynamic programming basics.
+Offered: Fall, Spring
+Notes: Students who earned a grade of D in CS 101 must retake CS 101 before enrolling.
+
+CS 201 - Data Structures and Algorithms II
+Credits: 3
+Prerequisites: CS 102 with a grade of C or better
+Co-requisites: None
+Description: Advanced data structures: heaps, hash tables, balanced BSTs (AVL, Red-Black), graphs. Graph algorithms: BFS, DFS, Dijkstra's, Bellman-Ford, topological sort. Dynamic programming advanced techniques. NP-completeness introduction.
+Offered: Fall, Spring
+Notes: Students are strongly encouraged to complete MATH 210 (Discrete Math) before or concurrently.
+
+CS 210 - Computer Organization and Architecture
+Credits: 3
+Prerequisites: CS 101 with a grade of C or better
+Co-requisites: None
+Description: Binary representation, Boolean algebra, digital logic circuits, CPU architecture, instruction set architectures (ISA), assembly language (MIPS/x86), memory hierarchy, cache design, pipelining fundamentals.
+Offered: Fall, Spring
+Notes: This course satisfies the Systems Breadth requirement for CS majors.
+
+CS 220 - Discrete Mathematics for Computer Science
+Credits: 3
+Prerequisites: MATH 115 with a grade of C or better
+Co-requisites: None
+Description: Logic and proof techniques, sets and functions, relations, combinatorics, probability, graph theory, and formal languages. Applications to algorithm correctness and computational complexity.
+Offered: Fall, Spring
+Notes: Cross-listed as MATH 220. CS majors may use either version to satisfy the Discrete Math requirement.
+
+CS 301 - Database Systems
+Credits: 3
+Prerequisites: CS 201 with a grade of C or better
+Co-requisites: None
+Description: Relational database theory, SQL, normalization (1NF through BCNF), transactions and ACID properties, indexing and query optimization, NoSQL overview. Students build a full-featured database application as a semester project.
+Offered: Fall, Spring
+Notes: Students with credit for CS 300 may not receive credit for CS 301.
+
+CS 302 - Operating Systems
+Credits: 3
+Prerequisites: CS 201 with a grade of C or better AND CS 210 with a grade of C or better
+Co-requisites: None
+Description: Process management, threads and concurrency, synchronization primitives, deadlock, memory management, virtual memory, file systems, I/O systems, security basics. Programming projects in C.
+Offered: Fall, Spring
+Notes: C programming experience strongly recommended. Students who have not programmed in C should review CS 215 (Systems Programming) materials.
+
+CS 310 - Software Engineering
+Credits: 3
+Prerequisites: CS 201 with a grade of C or better
+Co-requisites: None
+Description: Software development lifecycle, requirements engineering, design patterns, UML, version control (Git), agile methodologies, testing strategies (unit, integration, system), code review, and documentation. Team project required.
+Offered: Fall, Spring
+Notes: Students will work in teams of 4-5 on a semester-long software project. Strong written and oral communication skills are expected.
+
+CS 320 - Theory of Computation
+Credits: 3
+Prerequisites: CS 201 with a grade of C or better AND CS 220 with a grade of C or better
+Co-requisites: None
+Description: Finite automata and regular languages, context-free grammars and pushdown automata, Turing machines, decidability, undecidability (Halting Problem), computational complexity classes (P, NP, NP-complete).
+Offered: Fall, Spring
+Notes: This is a proof-intensive course. Strong mathematical maturity is required.
+
+CS 330 - Computer Networks
+Credits: 3
+Prerequisites: CS 302 with a grade of C or better
+Co-requisites: None
+Description: Network layering (OSI, TCP/IP), application layer protocols (HTTP, DNS, SMTP), transport layer (TCP, UDP, congestion control), network layer (routing, IP, OSPF, BGP), data link and physical layers, network security basics.
+Offered: Fall, Spring
+Notes: Wireshark lab exercises are a required component.
+
+CS 340 - Artificial Intelligence
+Credits: 3
+Prerequisites: CS 201 with a grade of C or better AND MATH 210 with a grade of C or better
+Co-requisites: None
+Description: Search algorithms (BFS, DFS, A*), constraint satisfaction, adversarial search (minimax, alpha-beta), knowledge representation, propositional and first-order logic, probabilistic reasoning, Bayesian networks, machine learning overview.
+Offered: Fall, Spring
+Notes: Python programming required. NumPy and SciPy will be used.
+
+CS 350 - Programming Languages
+Credits: 3
+Prerequisites: CS 201 with a grade of C or better AND CS 320 with a grade of C or better
+Co-requisites: None
+Description: Syntax and semantics, type systems, functional programming (Haskell/OCaml), logic programming (Prolog), language implementation (lexer, parser, interpreter), lambda calculus, type inference.
+Offered: Fall only
+Notes: Exposure to at least two programming paradigms before this course is strongly recommended.
+
+CS 401 - Machine Learning
+Credits: 3
+Prerequisites: CS 340 with a grade of C or better AND MATH 301 (Linear Algebra) with a grade of C or better AND STAT 201 with a grade of C or better
+Co-requisites: None
+Description: Supervised learning (linear regression, logistic regression, SVM, decision trees, random forests), unsupervised learning (k-means, PCA), neural networks (feedforward, CNNs, RNNs), optimization, regularization, model evaluation.
+Offered: Fall, Spring
+Notes: Students are expected to be comfortable with matrix operations and calculus. CS 340 is a strict prerequisite; no exceptions.
+
+CS 410 - Compilers
+Credits: 3
+Prerequisites: CS 302 with a grade of C or better AND CS 350 with a grade of C or better
+Co-requisites: None
+Description: Lexical analysis, parsing techniques (LL, LR, LALR), abstract syntax trees, semantic analysis, type checking, intermediate code generation, optimization (constant folding, dead code elimination), code generation.
+Offered: Spring only
+Notes: This is one of the most demanding courses in the CS curriculum. Students should plan to dedicate substantial time.
+
+CS 420 - Distributed Systems
+Credits: 3
+Prerequisites: CS 302 with a grade of C or better AND CS 330 with a grade of C or better
+Co-requisites: None
+Description: Distributed computation models, consistency and replication, consensus algorithms (Paxos, Raft), fault tolerance, distributed file systems, MapReduce, microservices architecture, CAP theorem.
+Offered: Fall only
+Notes: Cloud platform (AWS or GCP) account required. Students will deploy distributed applications.
+
+CS 430 - Computer Security
+Credits: 3
+Prerequisites: CS 302 with a grade of C or better AND CS 330 with a grade of C or better
+Co-requisites: None
+Description: Cryptography (symmetric, asymmetric, hash functions, PKI), network security, web security (XSS, SQL injection, CSRF), binary exploitation, reverse engineering, malware analysis, security policies and ethics.
+Offered: Fall, Spring
+Notes: This course includes hands-on ethical hacking labs in a controlled sandbox environment.
+
+CS 450 - Senior Capstone Project I
+Credits: 3
+Prerequisites: Completion of 90+ credit hours; CS 310 with a grade of B or better; Senior standing; CS major GPA of 2.5 or higher
+Co-requisites: None
+Description: First semester of the two-semester senior capstone. Students form teams, identify a real-world problem, conduct a literature review, and produce a detailed project proposal and system design document.
+Offered: Fall only
+Notes: Students must obtain faculty advisor approval for their project proposal. Proposals are due Week 4.
+
+CS 451 - Senior Capstone Project II
+Credits: 3
+Prerequisites: CS 450 with a grade of B or better
+Co-requisites: None
+Description: Continuation of the capstone project. Students implement the system designed in CS 450, conduct user testing, and present results to an industry panel. Final deliverable includes a working system and technical report.
+Offered: Spring only
+Notes: Students must present their project at the end-of-semester Demo Day. Industry evaluators participate in grading.
+
+CS 461 - Natural Language Processing
+Credits: 3
+Prerequisites: CS 401 with a grade of C or better
+Co-requisites: None
+Description: Text preprocessing, language models (n-gram, neural), word embeddings (Word2Vec, GloVe, BERT), sequence models (RNN, LSTM, Transformer), sentiment analysis, named entity recognition, machine translation, question answering.
+Offered: Spring only
+Notes: Significant Python/PyTorch programming required.
+
+CS 470 - Computer Graphics
+Credits: 3
+Prerequisites: CS 201 with a grade of C or better AND MATH 301 with a grade of C or better
+Co-requisites: None
+Description: 2D and 3D rendering pipelines, transformations and matrices, rasterization, ray tracing, shading models (Phong, PBR), texture mapping, OpenGL/WebGL programming, animation fundamentals.
+Offered: Spring only
+Notes: Students will submit a final rendered scene or interactive application.
+
+CS 480 - Special Topics in Computer Science
+Credits: 1-3 (variable)
+Prerequisites: CS 301 with a grade of C or better; Instructor consent required
+Co-requisites: None
+Description: Topics vary by semester. Recent offerings include: Quantum Computing, Blockchain and Decentralized Systems, Robotics and Autonomous Systems, Bioinformatics Algorithms. Check the current semester schedule for the specific topic.
+Offered: Fall, Spring (topic varies)
+Notes: Students must obtain written consent from the instructor before enrolling. Consent forms are available from the CS department office.
+
+CS 490 - Independent Study in Computer Science
+Credits: 1-3 (variable)
+Prerequisites: Junior or Senior standing; minimum CS GPA of 3.0; written faculty supervisor agreement
+Co-requisites: None
+Description: Individual research or advanced project under faculty supervision. The student and supervisor must complete and submit an Independent Study Agreement form to the department chair for approval.
+Offered: Fall, Spring, Summer
+Notes: A maximum of 6 credits of CS 490 may be counted toward graduation requirements. Graded as Pass/Fail unless written request for letter grade is submitted before the end of Week 2.
+
+=============================================================
+END OF CS COURSE LISTINGS
+=============================================================

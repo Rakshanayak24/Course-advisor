@@ -1,0 +1,264 @@
+{
+  "metrics": {
+    "total_queries": 25,
+    "citation_coverage_pct": 100.0,
+    "eligibility_accuracy_pct": 90.0,
+    "eligibility_correct": 9,
+    "eligibility_total": 10,
+    "abstention_accuracy_pct": 100.0,
+    "abstention_correct": 5,
+    "abstention_total": 5
+  },
+  "results": [
+    {
+      "id": "PC-01",
+      "category": "prereq_check",
+      "query": "Can I take CS 301 if I've only completed CS 101 and MATH 120?",
+      "expected": "NOT_ELIGIBLE",
+      "has_citation": true,
+      "correct": true,
+      "elapsed_s": 0.06,
+      "answer_snippet": "---\n**Answer / Plan:**\n❌ **NOT ELIGIBLE** — You are missing: **CS 201**.\nComplete those first, then you can enroll in CS 301.\n\n**Why (Requirements/Prereqs Satisfied):**\nThe catalog lists these prerequisites for CS 301 — Database Systems [chunk_0006 | https://catalog.university.edu/courses/computer-s"
+    },
+    {
+      "id": "PC-02",
+      "category": "prereq_check",
+      "query": "Am I eligible to enroll in CS 302 (Operating Systems)?",
+      "expected": "ELIGIBLE",
+      "has_citation": true,
+      "correct": true,
+      "elapsed_s": 0.06,
+      "answer_snippet": "---\n**Answer / Plan:**\n✅ **ELIGIBLE** — You meet all prerequisites for **CS 302 — Operating Systems**. Offered in: Fall, Spring.\n\n**Why (Requirements/Prereqs Satisfied):**\nThe catalog lists these prerequisites for CS 302 — Operating Systems [chunk_0007 | https://catalog.university.edu/courses/comput"
+    },
+    {
+      "id": "PC-03",
+      "category": "prereq_check",
+      "query": "Can I take CS 302 if I got a D in CS 201?",
+      "expected": "NOT_ELIGIBLE",
+      "has_citation": true,
+      "correct": true,
+      "elapsed_s": 0.1,
+      "answer_snippet": "---\n**Answer / Plan:**\n❌ **NOT ELIGIBLE** — You are missing: **CS 201**.\nComplete those first, then you can enroll in CS 302.\n\n**Why (Requirements/Prereqs Satisfied):**\nThe catalog lists these prerequisites for CS 302 — Operating Systems [chunk_0007 | https://catalog.university.edu/courses/computer-"
+    },
+    {
+      "id": "PC-04",
+      "category": "prereq_check",
+      "query": "Can I enroll in CS 340 (Artificial Intelligence)?",
+      "expected": "ELIGIBLE",
+      "has_citation": true,
+      "correct": true,
+      "elapsed_s": 0.06,
+      "answer_snippet": "---\n**Answer / Plan:**\n✅ **ELIGIBLE** — You meet all prerequisites for **CS 340 — Artificial Intelligence**. Offered in: Fall, Spring.\n\n**Why (Requirements/Prereqs Satisfied):**\nThe catalog lists these prerequisites for CS 340 — Artificial Intelligence [chunk_0011 | https://catalog.university.edu/co"
+    },
+    {
+      "id": "PC-05",
+      "category": "prereq_check",
+      "query": "Can I take CS 401 if I've completed CS 340 and STAT 201 but not MATH 301?",
+      "expected": "NOT_ELIGIBLE",
+      "has_citation": true,
+      "correct": true,
+      "elapsed_s": 0.09,
+      "answer_snippet": "---\n**Answer / Plan:**\n❌ **NOT ELIGIBLE** — You are missing: **MATH 301**.\nComplete those first, then you can enroll in CS 401.\n\n**Why (Requirements/Prereqs Satisfied):**\nThe catalog lists these prerequisites for CS 401 — Machine Learning [chunk_0013 | https://catalog.university.edu/courses/computer"
+    },
+    {
+      "id": "PC-06",
+      "category": "prereq_check",
+      "query": "I completed CS 310 with a C. Can I take CS 450 (Capstone I)?",
+      "expected": "NOT_ELIGIBLE",
+      "has_citation": true,
+      "correct": true,
+      "elapsed_s": 0.07,
+      "answer_snippet": "---\n**Answer / Plan:**\n❌ **NOT ELIGIBLE** — You are missing: **CS 201**.\nComplete those first, then you can enroll in CS 310.\n\n**Why (Requirements/Prereqs Satisfied):**\nThe catalog lists these prerequisites for CS 310 — Software Engineering [chunk_0008 | https://catalog.university.edu/courses/comput"
+    },
+    {
+      "id": "PC-07",
+      "category": "prereq_check",
+      "query": "Am I eligible for CS 450 (Capstone I)?",
+      "expected": "ELIGIBLE",
+      "has_citation": true,
+      "correct": true,
+      "elapsed_s": 0.06,
+      "answer_snippet": "---\n**Answer / Plan:**\n✅ **ELIGIBLE** — You meet all prerequisites for **CS 450 — Senior Capstone Project I**. Offered in: Fall.\n\n**Why (Requirements/Prereqs Satisfied):**\nThe catalog lists these prerequisites for CS 450 — Senior Capstone Project I [chunk_0017 | https://catalog.university.edu/course"
+    },
+    {
+      "id": "PC-08",
+      "category": "prereq_check",
+      "query": "Can I take CS 480 Special Topics?",
+      "expected": "NEED_MORE_INFO",
+      "has_citation": true,
+      "correct": true,
+      "elapsed_s": 0.06,
+      "answer_snippet": "---\n**Answer / Plan:**\n✅ **ELIGIBLE** — You meet all prerequisites for **CS 480 — Special Topics in Computer Science**. Offered in: Fall, Spring.\n\n**Why (Requirements/Prereqs Satisfied):**\nThe catalog lists these prerequisites for CS 480 — Special Topics in Computer Science [chunk_0021 | https://cat"
+    },
+    {
+      "id": "PC-09",
+      "category": "prereq_check",
+      "query": "Can I take CS 410 (Compilers) next semester?",
+      "expected": "NOT_ELIGIBLE",
+      "has_citation": true,
+      "correct": false,
+      "elapsed_s": 0.07,
+      "answer_snippet": "---\n**Answer / Plan:**\nRecommended plan for **Spring 2025** (General CS track, max 15 credits):\n\n1. **CS 101** — Introduction to Programming (3 cr)\n2. **CS 330** — Computer Networks (3 cr)\n3. **MATH 115** — Calculus I (4 cr)\n\n**Total: 10 credits**\n\n**Why (Requirements/Prereqs Satisfied):**\n- **CS 10"
+    },
+    {
+      "id": "PC-10",
+      "category": "prereq_check",
+      "query": "Can I take CS 461 (NLP) if I've completed CS 401?",
+      "expected": "ELIGIBLE",
+      "has_citation": true,
+      "correct": true,
+      "elapsed_s": 0.07,
+      "answer_snippet": "---\n**Answer / Plan:**\n✅ **ELIGIBLE** — You meet all prerequisites for **CS 461 — Natural Language Processing**. Offered in: Spring.\n\n**Why (Requirements/Prereqs Satisfied):**\nThe catalog lists these prerequisites for CS 461 — Natural Language Processing [chunk_0019 | https://catalog.university.edu/"
+    },
+    {
+      "id": "PQ-01",
+      "category": "prereq_chain",
+      "query": "What is the complete prerequisite chain for CS 401 Machine Learning?",
+      "expected": "CHAIN",
+      "has_citation": true,
+      "correct": true,
+      "elapsed_s": 0.08,
+      "answer_snippet": "---\n**Answer / Plan:**\nComplete prerequisite chain for **CS 401** (Machine Learning):\n\n⬜ **CS 101** (Introduction to Programming) — needs: No prerequisites [chunk_0001 | https://catalog.university.edu/courses/computer-science]\n⬜ **CS 102** (Data Structures and Algorithms I) — needs: CS 101 [chunk_00"
+    },
+    {
+      "id": "PQ-02",
+      "category": "prereq_chain",
+      "query": "What is the full prerequisite chain to take CS 420 (Distributed Systems)?",
+      "expected": "CHAIN",
+      "has_citation": true,
+      "correct": true,
+      "elapsed_s": 0.08,
+      "answer_snippet": "---\n**Answer / Plan:**\nComplete prerequisite chain for **CS 420** (Distributed Systems):\n\n⬜ **CS 101** (Introduction to Programming) — needs: No prerequisites [chunk_0001 | https://catalog.university.edu/courses/computer-science]\n⬜ **CS 102** (Data Structures and Algorithms I) — needs: CS 101 [chunk"
+    },
+    {
+      "id": "PQ-03",
+      "category": "prereq_chain",
+      "query": "Is the co-requisite for CS 102 (MATH 115) required concurrently or can it be completed beforehand?",
+      "expected": "CHAIN",
+      "has_citation": true,
+      "correct": true,
+      "elapsed_s": 0.08,
+      "answer_snippet": "---\n**Answer / Plan:**\n✅ **ELIGIBLE** — You meet all prerequisites for **CS 102 — Data Structures and Algorithms I**. Offered in: Fall, Spring.\n\n**Why (Requirements/Prereqs Satisfied):**\nThe catalog lists these prerequisites for CS 102 — Data Structures and Algorithms I [chunk_0002 | https://catalog"
+    },
+    {
+      "id": "PQ-04",
+      "category": "prereq_chain",
+      "query": "What do I need to complete before I can enroll in CS 410 (Compilers)?",
+      "expected": "CHAIN",
+      "has_citation": true,
+      "correct": true,
+      "elapsed_s": 0.07,
+      "answer_snippet": "---\n**Answer / Plan:**\n❌ **NOT ELIGIBLE** — You are missing: **CS 302, CS 350**.\nComplete those first, then you can enroll in CS 410.\n\n**Why (Requirements/Prereqs Satisfied):**\nThe catalog lists these prerequisites for CS 410 — Compilers [chunk_0014 | https://catalog.university.edu/courses/computer-"
+    },
+    {
+      "id": "PQ-05",
+      "category": "prereq_chain",
+      "query": "I've only taken CS 101. What is the minimum path to reach CS 302?",
+      "expected": "CHAIN",
+      "has_citation": true,
+      "correct": true,
+      "elapsed_s": 0.07,
+      "answer_snippet": "---\n**Answer / Plan:**\nComplete prerequisite chain for **CS 101** (Introduction to Programming):\n\n      ✅ **CS 101** (Introduction to Programming) — needs: No prerequisites [chunk_0001 | https://catalog.university.edu/courses/computer-science]\n\n**Student Status:**\n- ✅ Already completed: None\n- ⬜ Sti"
+    },
+    {
+      "id": "PR-01",
+      "category": "program_requirement",
+      "query": "How many total credit hours do I need to graduate with a BS in Computer Science?",
+      "expected": "INFO",
+      "has_citation": true,
+      "correct": true,
+      "elapsed_s": 0.05,
+      "answer_snippet": "---\n**Answer / Plan:**\nThe BS in Computer Science requires **120 total credit hours** to graduate.\n\n**Why (Requirements/Prereqs Satisfied):**\nPer the BSCS Program Requirements: \"completion of 120 credit hours, including general education (30 cr), mathematics (16 cr), CS core (42 cr), concentration t"
+    },
+    {
+      "id": "PR-02",
+      "category": "program_requirement",
+      "query": "What courses satisfy the elective requirement for the General CS track?",
+      "expected": "INFO",
+      "has_citation": true,
+      "correct": true,
+      "elapsed_s": 0.05,
+      "answer_snippet": "---\n**Answer / Plan:**\nI can answer prerequisite eligibility questions, build prerequisite chains, and generate course plans — but I need a bit more context about your specific question.\n\n**Why (Requirements/Prereqs Satisfied):**\nNo specific course code or planning keyword was detected in your quest"
+    },
+    {
+      "id": "PR-03",
+      "category": "program_requirement",
+      "query": "What is the residency requirement for the BSCS degree?",
+      "expected": "INFO",
+      "has_citation": true,
+      "correct": true,
+      "elapsed_s": 0.06,
+      "answer_snippet": "---\n**Answer / Plan:**\nThe BSCS residency requirement has **two parts**:\n1. At least **30 of the final 45 credit hours** must be earned at State University.\n2. At least **18 credits in CS courses 300+** must be earned at State University.\n\n**Why (Requirements/Prereqs Satisfied):**\nBoth stated in the"
+    },
+    {
+      "id": "PR-04",
+      "category": "program_requirement",
+      "query": "Can I take CS core courses Pass/Fail to protect my GPA?",
+      "expected": "INFO",
+      "has_citation": true,
+      "correct": true,
+      "elapsed_s": 0.05,
+      "answer_snippet": "---\n**Answer / Plan:**\n**No** — CS core courses and required major courses **cannot** be taken Pass/Fail.\n\n**Why (Requirements/Prereqs Satisfied):**\nAcademic Policy §1.4 states: \"CS core courses and required major courses CANNOT be taken Pass/Fail.\" Only non-required elective courses are eligible. T"
+    },
+    {
+      "id": "PR-05",
+      "category": "program_requirement",
+      "query": "I've completed CS 101, CS 102, CS 201, CS 210, CS 220, MATH 115, STAT 201. Suggest a course plan for Fall 2025. Max 15 credits.",
+      "expected": "PLAN",
+      "has_citation": true,
+      "correct": true,
+      "elapsed_s": 0.08,
+      "answer_snippet": "---\n**Answer / Plan:**\nRecommended plan for **Fall 2025** (AI/ML track, max 15 credits):\n\n1. **CS 301** — Database Systems (3 cr)\n2. **CS 302** — Operating Systems (3 cr)\n3. **CS 310** — Software Engineering (3 cr)\n4. **CS 320** — Theory of Computation (3 cr)\n5. **CS 340** — Artificial Intelligence "
+    },
+    {
+      "id": "ND-01",
+      "category": "abstention",
+      "query": "Is CS 401 available in the Summer 2025 session?",
+      "expected": "ABSTAIN",
+      "has_citation": true,
+      "correct": true,
+      "elapsed_s": 0.08,
+      "answer_snippet": "---\n**Answer / Plan:**\nI don't have that information in the provided catalog/policies.\n\n**Why (Requirements/Prereqs Satisfied):**\nInstructor assignments, waitlist lengths, specific Special Topics topic offerings, and Summer availability (when not explicitly listed) are not contained in the academic "
+    },
+    {
+      "id": "ND-02",
+      "category": "abstention",
+      "query": "Which professor teaches CS 340 in Fall 2025?",
+      "expected": "ABSTAIN",
+      "has_citation": true,
+      "correct": true,
+      "elapsed_s": 0.08,
+      "answer_snippet": "---\n**Answer / Plan:**\nI don't have that information in the provided catalog/policies.\n\n**Why (Requirements/Prereqs Satisfied):**\nInstructor assignments, waitlist lengths, specific Special Topics topic offerings, and Summer availability (when not explicitly listed) are not contained in the academic "
+    },
+    {
+      "id": "ND-03",
+      "category": "abstention",
+      "query": "How do I get instructor consent for CS 480? What criteria does the professor use?",
+      "expected": "ABSTAIN",
+      "has_citation": true,
+      "correct": true,
+      "elapsed_s": 0.07,
+      "answer_snippet": "---\n**Answer / Plan:**\nI don't have that information in the provided catalog/policies.\n\n**Why (Requirements/Prereqs Satisfied):**\nInstructor assignments, waitlist lengths, specific Special Topics topic offerings, and Summer availability (when not explicitly listed) are not contained in the academic "
+    },
+    {
+      "id": "ND-04",
+      "category": "abstention",
+      "query": "Will CS 480 on Blockchain be offered this fall?",
+      "expected": "ABSTAIN",
+      "has_citation": true,
+      "correct": true,
+      "elapsed_s": 0.07,
+      "answer_snippet": "---\n**Answer / Plan:**\nI don't have that information in the provided catalog/policies.\n\n**Why (Requirements/Prereqs Satisfied):**\nInstructor assignments, waitlist lengths, specific Special Topics topic offerings, and Summer availability (when not explicitly listed) are not contained in the academic "
+    },
+    {
+      "id": "ND-05",
+      "category": "abstention",
+      "query": "What is the current waitlist length for CS 302?",
+      "expected": "ABSTAIN",
+      "has_citation": true,
+      "correct": true,
+      "elapsed_s": 0.07,
+      "answer_snippet": "---\n**Answer / Plan:**\nI don't have that information in the provided catalog/policies.\n\n**Why (Requirements/Prereqs Satisfied):**\nInstructor assignments, waitlist lengths, specific Special Topics topic offerings, and Summer availability (when not explicitly listed) are not contained in the academic "
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "1. Eligible — CS 302",
+    "query": "Am I eligible to enroll in CS 302 (Operating Systems)?",
+    "answer": "---\n**Answer / Plan:**\n✅ **ELIGIBLE** — You meet all prerequisites for **CS 302 — Operating Systems**. Offered in: Fall, Spring.\n\n**Why (Requirements/Prereqs Satisfied):**\nThe catalog lists these prerequisites for CS 302 — Operating Systems [chunk_0007 | https://catalog.university.edu/courses/computer-science]:\n\n- **CS 201** (min: C or better): ✓ SATISFIED — earned B (need C or better) [chunk_0007 | https://catalog.university.edu/courses/computer-science]\n- **CS 210** (min: C or better): ✓ SATISFIED — earned C+ (need C or better) [chunk_0007 | https://catalog.university.edu/courses/computer-science]\n\n**Citations:**\n| Chunk ID | Source | Relevant Claim |\n|----------|--------|----------------|\n| chunk_0007 | https://catalog.university.edu/courses/computer-science | CS 302 prerequisites |\n\n**Clarifying Questions (if needed):**\nNone — sufficient information provided.\n\n**Assumptions / Not in Catalog:**\nNone.\n---",
+    "audit_result": "PASS"
+  },
+  {
+    "name": "2. Not Eligible — D grade in CS 201",
+    "query": "Can I take CS 302 if I got a D in CS 201?",
+    "answer": "---\n**Answer / Plan:**\n❌ **NOT ELIGIBLE** — You are missing: **CS 201**.\nComplete those first, then you can enroll in CS 302.\n\n**Why (Requirements/Prereqs Satisfied):**\nThe catalog lists these prerequisites for CS 302 — Operating Systems [chunk_0007 | https://catalog.university.edu/courses/computer-science]:\n\n- **CS 201** (min: C or better): ✗ NOT SATISFIED — earned D, need C or better [chunk_0007 | https://catalog.university.edu/courses/computer-science]\n- **CS 210** (min: C or better): ✓ SATISFIED — earned B (need C or better) [chunk_0007 | https://catalog.university.edu/courses/computer-science]\n\n**Citations:**\n| Chunk ID | Source | Relevant Claim |\n|----------|--------|----------------|\n| chunk_0007 | https://catalog.university.edu/courses/computer-science | CS 302 prerequisites |\n\n**Clarifying Questions (if needed):**\nNone — sufficient information provided.\n\n**Assumptions / Not in Catalog:**\nNone.\n---",
+    "audit_result": "PASS"
+  },
+  {
+    "name": "3. Prereq chain — CS 401",
+    "query": "What is the complete prerequisite chain for CS 401 Machine Learning?",
+    "answer": "---\n**Answer / Plan:**\nTo give you a fully catalog-grounded answer, I need a bit more information.\n\n**Why (Requirements/Prereqs Satisfied):**\nWithout complete profile details, I cannot verify prerequisites or generate a reliable plan.\n\n**Citations:**\n| Chunk ID | Source | Relevant Claim |\n|----------|--------|----------------|\n| N/A | N/A | Awaiting student profile |\n\n**Clarifying Questions (if needed):**\n1. Which courses have you already completed? Please include grades (e.g., CS 101 - A).\n\n**Assumptions / Not in Catalog:**\nPlease answer the questions above so I can provide a grounded, cited response.\n---",
+    "audit_result": "N/A"
+  },
+  {
+    "name": "4. Course plan — AI/ML track, Spring 2025",
+    "query": "Please suggest a course plan for Spring 2025 for the AI/ML concentration.",
+    "answer": "---\n**Answer / Plan:**\nRecommended plan for **Spring 2025** (AI/ML track, max 15 credits):\n\n1. **CS 301** — Database Systems (3 cr)\n2. **CS 302** — Operating Systems (3 cr)\n3. **CS 310** — Software Engineering (3 cr)\n4. **CS 320** — Theory of Computation (3 cr)\n5. **CS 340** — Artificial Intelligence (3 cr)\n\n**Total: 15 credits**\n\n**Why (Requirements/Prereqs Satisfied):**\n- **CS 301 — Database Systems** (3 cr): Prerequisites (CS 201) ✓ | Offered Spring ✓ [chunk_0006 | https://catalog.university.edu/courses/computer-science]\n- **CS 302 — Operating Systems** (3 cr): Prerequisites (CS 201, CS 210) ✓ | Offered Spring ✓ [chunk_0007 | https://catalog.university.edu/courses/computer-science]\n- **CS 310 — Software Engineering** (3 cr): Prerequisites (CS 201) ✓ | Offered Spring ✓ [chunk_0008 | https://catalog.university.edu/courses/computer-science]\n- **CS 320 — Theory of Computation** (3 cr): Prerequisites (CS 201, CS 220) ✓ | Offered Spring ✓ [chunk_0009 | https://catalog.university.edu/courses/computer-science]\n- **CS 340 — Artificial Intelligence** (3 cr): Prerequisites (CS 201, MATH 210) ✓ | Offered Spring ✓ [chunk_0011 | https://catalog.university.edu/courses/computer-science]\n\nAll recommendations verified against completed courses and catalog offering data.\n\n**Citations:**\n| Chunk ID | Source | Relevant Claim |\n|----------|--------|----------------|\n| chunk_0006 | https://catalog.university.edu/courses/computer-science | Course prereqs and Spring offering |\n| chunk_0007 | https://catalog.university.edu/courses/computer-science | Course prereqs and Spring offering |\n| chunk_0008 | https://catalog.university.edu/courses/computer-science | Course prereqs and Spring offering |\n| chunk_0009 | https://catalog.university.edu/courses/computer-science | Course prereqs and Spring offering |\n| chunk_0011 | https://catalog.university.edu/courses/computer-science | Course prereqs and Spring offering |\n| chunk_0042 | https://catalog.university.edu/programs/cs-bscs | BSCS core requirements |\n\n**Clarifying Questions (if needed):**\nNone — sufficient profile information provided.\n\n**Assumptions / Not in Catalog:**\n- Section availability, times, and seat counts are NOT in the catalog — verify in the live Schedule of Classes.\n- Instructor-consent courses (CS 480, CS 490) excluded as availability cannot be catalog-confirmed.\n---",
+    "audit_result": "PASS"
+  },
+  {
+    "name": "5. Policy — Pass/Fail",
+    "query": "Can I take CS core courses on Pass/Fail to protect my GPA?",
+    "answer": "---\n**Answer / Plan:**\n**No** — CS core courses and required major courses **cannot** be taken Pass/Fail.\n\n**Why (Requirements/Prereqs Satisfied):**\nAcademic Policy §1.4 states: \"CS core courses and required major courses CANNOT be taken Pass/Fail.\" Only non-required elective courses are eligible. The election must be declared before the end of Week 2 and cannot be reversed. [chunk_0050 | https://catalog.university.edu/policies/academic]\n\n**Citations:**\n| Chunk ID | Source | Relevant Claim |\n|----------|--------|----------------|\n| chunk_0050 | https://catalog.university.edu/policies/academic | Pass/Fail restrictions — Section 1.4 |\n\n**Clarifying Questions (if needed):**\nNone.\n\n**Assumptions / Not in Catalog:**\nNone.\n---",
+    "audit_result": "PASS"
+  },
+  {
+    "name": "6. Abstention — professor assignment",
+    "query": "Which professor teaches CS 340 in Fall 2025?",
+    "answer": "---\n**Answer / Plan:**\nI don't have that information in the provided catalog/policies.\n\n**Why (Requirements/Prereqs Satisfied):**\nInstructor assignments, waitlist lengths, specific Special Topics topic offerings, and Summer availability (when not explicitly listed) are not contained in the academic catalog documents provided to this system.\n\n**Citations:**\n| Chunk ID | Source | Relevant Claim |\n|----------|--------|----------------|\n| N/A | N/A | Topic not covered in catalog documents |\n\n**Clarifying Questions (if needed):**\nNone.\n\n**Assumptions / Not in Catalog:**\n- This information is outside the scope of the academic catalog.\n- **Recommended next steps:**\n  1. Check the **Schedule of Classes** on the Registrar's website for real-time data\n  2. Contact the **CS Department office** directly\n  3. Email the specific **course instructor** for consent-related questions\n  4. Visit your **academic advisor** for personalized guidance\n---",
+    "audit_result": "PASS"
+  },
+  {
+    "name": "7. Abstention — summer availability",
+    "query": "Is CS 401 (Machine Learning) available in Summer 2025?",
+    "answer": "---\n**Answer / Plan:**\nI don't have that information in the provided catalog/policies.\n\n**Why (Requirements/Prereqs Satisfied):**\nInstructor assignments, waitlist lengths, specific Special Topics topic offerings, and Summer availability (when not explicitly listed) are not contained in the academic catalog documents provided to this system.\n\n**Citations:**\n| Chunk ID | Source | Relevant Claim |\n|----------|--------|----------------|\n| N/A | N/A | Topic not covered in catalog documents |\n\n**Clarifying Questions (if needed):**\nNone.\n\n**Assumptions / Not in Catalog:**\n- This information is outside the scope of the academic catalog.\n- **Recommended next steps:**\n  1. Check the **Schedule of Classes** on the Registrar's website for real-time data\n  2. Contact the **CS Department office** directly\n  3. Email the specific **course instructor** for consent-related questions\n  4. Visit your **academic advisor** for personalized guidance\n---",
+    "audit_result": "PASS"
+  }
+]

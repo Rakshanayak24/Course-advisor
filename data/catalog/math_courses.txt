@@ -1,0 +1,77 @@
+SOURCE: https://catalog.university.edu/courses/mathematics
+INSTITUTION: State University - Department of Mathematics
+CATALOG YEAR: 2024-2025
+ACCESSED: 2025-01-15
+
+=============================================================
+MATHEMATICS COURSE CATALOG
+Department of Mathematics, College of Arts & Sciences
+=============================================================
+
+MATH 100 - Pre-Calculus
+Credits: 3
+Prerequisites: Placement exam score of 40 or higher OR instructor consent
+Co-requisites: None
+Description: Functions and their graphs, polynomial and rational functions, exponential and logarithmic functions, trigonometry. Intended for students who need additional preparation before Calculus.
+Offered: Fall, Spring, Summer
+Notes: Credit does not count toward CS or Engineering degree requirements.
+
+MATH 115 - Calculus I
+Credits: 4
+Prerequisites: MATH 100 with a grade of C or better OR placement exam score of 70 or higher
+Co-requisites: None
+Description: Limits, continuity, derivatives (definition, rules, implicit differentiation, related rates), applications of differentiation (optimization, curve sketching, mean value theorem), introduction to integration (antiderivatives, definite integral, Fundamental Theorem of Calculus).
+Offered: Fall, Spring, Summer
+Notes: This is a core requirement for CS, Engineering, and Physics majors.
+
+MATH 116 - Calculus II
+Credits: 4
+Prerequisites: MATH 115 with a grade of C or better
+Co-requisites: None
+Description: Techniques of integration (substitution, parts, partial fractions, trigonometric), improper integrals, sequences and series (convergence tests, Taylor/Maclaurin series), parametric equations and polar coordinates.
+Offered: Fall, Spring
+Notes: Required for CS majors who pursue the Applied Computing or AI/ML track.
+
+MATH 210 - Discrete Mathematics
+Credits: 3
+Prerequisites: MATH 115 with a grade of C or better OR CS 101 with a grade of C or better
+Co-requisites: None
+Description: Propositional logic, predicate logic, proof techniques (direct, contradiction, induction), sets, functions, relations, counting, probability, graph theory basics, and trees.
+Offered: Fall, Spring
+Notes: Cross-listed as CS 220. Credit may be received for only one of MATH 210 or CS 220.
+
+MATH 250 - Linear Algebra
+Credits: 3
+Prerequisites: MATH 115 with a grade of C or better
+Co-requisites: None
+Description: Vectors and vector spaces, matrix operations, systems of linear equations (Gaussian elimination), determinants, eigenvalues and eigenvectors, orthogonality, linear transformations.
+Offered: Fall, Spring
+Notes: Required for CS students pursuing AI/ML track. Also listed as MATH 301 in some older catalogs; MATH 250 and MATH 301 are equivalent.
+
+MATH 301 - Linear Algebra (Advanced)
+Credits: 3
+Prerequisites: MATH 116 with a grade of C or better
+Co-requisites: None
+Description: Equivalent content to MATH 250 but with more rigorous proofs and deeper theoretical treatment. Abstract vector spaces, inner product spaces, spectral theorem, Jordan normal form.
+Offered: Spring only
+Notes: MATH 301 and MATH 250 are NOT interchangeable for all requirements. CS 401 (Machine Learning) requires MATH 301. Check with your advisor if you are unsure which to take.
+
+MATH 310 - Probability and Statistics for Engineers
+Credits: 3
+Prerequisites: MATH 116 with a grade of C or better
+Co-requisites: None
+Description: Probability spaces, random variables, distributions (binomial, Poisson, normal, exponential), expectation and variance, joint distributions, central limit theorem, confidence intervals, hypothesis testing, linear regression.
+Offered: Fall, Spring
+Notes: Cross-listed as STAT 201. CS students may use either version to satisfy the Probability requirement.
+
+STAT 201 - Probability and Statistics
+Credits: 3
+Prerequisites: MATH 115 with a grade of C or better
+Co-requisites: None
+Description: Descriptive statistics, probability fundamentals, discrete and continuous distributions, sampling distributions, estimation, hypothesis testing, chi-square tests, regression and correlation.
+Offered: Fall, Spring
+Notes: Cross-listed as MATH 310. Credit may be received for only one of STAT 201 or MATH 310.
+
+=============================================================
+END OF MATH/STAT COURSE LISTINGS
+=============================================================
